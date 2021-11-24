@@ -1,6 +1,9 @@
 //Muhammad Saefulloh
+please extract file 'vendor.rar' for run project with php artisan serve
+
 DATABASE
 ecommerce.sql
+
 LOGIN user yang sudah ada
 email : saeful@gmail.com
 pass : saeful123
